@@ -7,6 +7,7 @@
             public const int NameMaxLength = 20;
             public const int NameMinLength = 5;
             public const int DescriptionMinLenght = 5;
+            public const int LocationMaxLength = 100;
             public const int LocationMinLength = 5;
             public const int ContactInfoMaxLength = 15;
             public const int ContactInfoMinLength = 5;
